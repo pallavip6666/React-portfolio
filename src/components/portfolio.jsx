@@ -145,7 +145,7 @@ export default function Portfolio() {
                                 <div className="card-body">
                                     <h5>Frontend projects using React.js</h5>
                                     <p>Front-end development is the process of designing and building the graphical user interface of a website. Click on the button to see the website built using React.js.</p>
-                                    <a href="https://cakeshopbycoder.netlify.app" className="btn">Click Here</a>
+                                    <a href="https://spontaneous-croquembouche-ab430c.netlify.app/" className="btn">Click Here</a>
                                 </div>
                             </div>
                             <div className="card">
